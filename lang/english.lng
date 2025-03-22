@@ -1,0 +1,7 @@
+##grflangid 0x01
+# This is the English language file
+
+# GRF name and description definitions
+STR_GRF_NAME        :Primeval Whirl Town Names 0.1.0
+STR_GRF_DESCRIPTION :Town names only for idiots!
+STR_STYLES : PrimevalWhirl
